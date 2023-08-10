@@ -1,6 +1,6 @@
 # Analysis reproduction repository for "The first mm detection of a neutron star high-mass X-ray binary"
 
-![Stellar wind inferences](Figure1.pdf?raw=true "Stellar wind inferences")
+![Stellar wind inferences](Figure1.png?raw=true "Stellar wind inferences")
 
 ## Based on Van den Eijnden et al. (2023), MNRAS Letters accepted.
 The full paper, included updated versions can be found on https://arxiv.org/abs/ADDLINK (open access) and is included in this repository.
