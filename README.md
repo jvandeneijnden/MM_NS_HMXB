@@ -3,7 +3,7 @@
 ![Stellar wind inferences](Figure1.png?raw=true "Stellar wind inferences")
 
 ## Based on Van den Eijnden et al. (2023), MNRAS Letters accepted.
-The full paper, included updated versions can be found on https://arxiv.org/abs/ADDLINK (open access) and is included in this repository.
+The full paper, included updated versions can be found on https://arxiv.org/abs/2308.06021 (open access).
 
 This reproduction repository contains a Jupyter notebook to reproduce the images and analysis in the above paper. In order to run the notebook, check the software requirements below, clone the repository, and run through each cell. The motivations for the analysis are included to limited extend, but we refer to the full paper for all details.
 
