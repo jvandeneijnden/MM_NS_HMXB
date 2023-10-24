@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/676971450.svg)](https://zenodo.org/doi/10.5281/zenodo.10038510)
+
 # Analysis reproduction repository for "The first mm detection of a neutron star high-mass X-ray binary"
 
 ![Stellar wind inferences](Figure1.png?raw=true "Stellar wind inferences")
